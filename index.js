@@ -11,6 +11,7 @@ export function isIphoneX() {
           || (dimen.height === 844 || dimen.width === 844)
           || (dimen.height === 896 || dimen.width === 896)
           || (dimen.height === 926 || dimen.width === 926)
+          || (dimen.height === 1080 || dimen.width === 1080)
           || (dimen.height === 1170 || dimen.width === 1170)
           || (dimen.height === 1284 || dimen.width === 1284))
     );
